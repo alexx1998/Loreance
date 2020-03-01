@@ -1,0 +1,9 @@
+name: Loreance
+version: ${project.version}
+main: com.mordonia.loreance.Loreance
+api-version: 1.13
+authors: [AlexxSGames]
+description: The Loreance discord bot!
+website: com.mordoniamc.com
+depend: [MCore]
+
